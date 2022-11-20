@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Follow me on Mastodon at <a rel="me" href="https://100terres.net/@gab">@gab@100terres.net</a>.
+Follow me on <a rel="me" href="https://100terres.net/@gab">Mastodon</a>.
 
 <!--
 **100terres/100terres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
